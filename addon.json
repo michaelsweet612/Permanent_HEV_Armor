@@ -1,0 +1,15 @@
+{
+  "title": "Permanent HEV Suit Armor HUD",
+  "type": "effects",
+  "tags": [
+    "hud",
+    "realism",
+    "roleplay"
+  ],
+  "ignore": [
+    "*.psd",
+    "*.vcproj",
+    "*.svn*",
+    "*.git*"
+  ]
+}
